@@ -12,7 +12,7 @@ lang: en-US
 title: "Renato Costa's blog"
 
 # A description of your site for meta tag, search engine results.
-description: "Blog prototype"
+description: "Server-side Kotlin, Exploring coroutines, thinking about architectural topics. Learning and sharing"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
