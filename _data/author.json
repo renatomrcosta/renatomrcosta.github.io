@@ -1,7 +1,7 @@
 {
-  "name": "John Doe",
-  "bio": "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.",
-  "url": "https://justgoodthemes.com",
-  "location": "Vilnius, Lithuania",
-  "image": "images/author.png"
+  "name": "Renato Costa",
+  "bio": "My passion lies in continuously learning new technologies and techniques, and applying these in order to improve the lives of both the customers of the products I deliver and of the teams that I integrate. Currently focused on Server-side (Kotlin) and Architectural topics",
+  "url": "https://github.com/renatomrcosta",
+  "location": "Hamburg, Germany",
+  "image": "images/author_smile.png"
 }
