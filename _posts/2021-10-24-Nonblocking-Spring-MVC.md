@@ -426,3 +426,6 @@ Spring provides us with the `spring-webflux` starter that utilizes a Netty serve
 ### In Conclusion
 
 There's much and more we could talk about the power and flexibility of using coroutines in our systems are able to provide us: We started from a typical Spring Web Servlet, with all our naive calls blocking our service. We transitioned into a non-blocking implementation by adding the coroutine support that Spring Boot provides out of the box, and appreciated how changing just a little in our setup we can extract much more from our current resources. We saw that asynchronous calls in our webclient are non-blocking, but also verified that there may be calls that do not block but behave synchronously (our await() call). And we hopefully demystified the basic usages of coroutines in conjunction with Spring Boot
+
+
+*The code for this project can be found here: https://github.com/renatomrcosta/why-nonblocking-spring-web-blogpost*
