@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Flow Composition Patterns?"
-description: "Extending and operating on top of existing flows has never been easier"
+title: "Flow Composition Patterns"
+description: "Extending and operating on top of your existing flows"
 date: 2021-10-24
 tags: [coroutines, flow, kotlin]
 ---
