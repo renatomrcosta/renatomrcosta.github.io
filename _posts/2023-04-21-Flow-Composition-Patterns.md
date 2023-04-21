@@ -136,4 +136,4 @@ However, depending on your usecases, there may already be one or more appropriat
 
 ## Conclusion
 
-Flows are a powerful tool, and I think this pattern is not as well known as it should be. I hope this article helps you in your journey to compose flows in a more powerful way for your usecases!
+Flows are powerful tools, and I think this pattern is not as well known as it should be. I hope this article helps you in your journey to compose flows in a more powerful way for your usecases!
