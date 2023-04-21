@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flow Composition Patterns"
+title: "A Pattern for Composing Flow Operations"
 description: "Extending and operating on top of your existing flows"
 date: 2023-04-21
 tags: [coroutines, flow, kotlin]
