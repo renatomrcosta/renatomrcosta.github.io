@@ -2,7 +2,7 @@
 layout: post
 title: "Flow Composition Patterns"
 description: "Extending and operating on top of your existing flows"
-date: 2021-10-24
+date: 2023-04-21
 tags: [coroutines, flow, kotlin]
 ---
 [Kotlin Flows](https://kotlinlang.org/docs/flow.html) are powerful tools to handle streams of data in a suspending manner. 
@@ -136,4 +136,4 @@ However, depending on your usecases, there may already be one or more appropriat
 
 ## Conclusion
 
-Flows are a powerful tool, and I think this pattern is not as well known as it should be. I hope this article helps you in your journey to compose flows in a more powerful way for your usecases!
+Flows are powerful tools, and I think this pattern is not as well known as it should be. I hope this article helps you in your journey to compose flows in a more powerful way for your usecases!
